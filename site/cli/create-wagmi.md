@@ -1,4 +1,4 @@
-# create-wagmi
+# create-wahgmi
 
 ## Overview
 
